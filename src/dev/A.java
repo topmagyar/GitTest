@@ -29,6 +29,15 @@ public class A {
 	private void developmentBranchChange1() {
 	}
 
+	private void devFeature1BranchChange1() {
+	}
+
+	private void devFeature1BranchChange2() {
+	}
+
+	private void devFeature1BranchChange3() {
+	}
+
 	private void devFeature2BranchChange1() {
 	}
 
