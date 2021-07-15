@@ -9,6 +9,10 @@ public class A {
 	}
 
 	private void feature1BranchChange1() {
+
+	}
+
+	private void feature1BranchChange2() {
 		
 	}
 }
