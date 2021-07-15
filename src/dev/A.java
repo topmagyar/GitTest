@@ -25,4 +25,7 @@ public class A {
 
 	private void feature2BranchChange4() {
 	}
+
+	private void developmentBranchChange1() {
+	}
 }
