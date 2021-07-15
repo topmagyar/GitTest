@@ -7,4 +7,7 @@ public class A {
 
 	private void mainBranchChange1() {
 	}
+
+	private void mainBranchChange2() {
+	}
 }
