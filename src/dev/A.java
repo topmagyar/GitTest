@@ -8,12 +8,17 @@ public class A {
 	private void mainBranchChange1() {
 	}
 
+	private void mainBranchChange2() {
+	}
+
+	private void mainBranchChange3(){}
+
 	private void feature1BranchChange1() {
 
 	}
 
 	private void feature1BranchChange2() {
-		
+
 	}
 
 	private void feature1BranchChange3(){}
