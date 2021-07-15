@@ -10,4 +10,6 @@ public class A {
 
 	private void mainBranchChange2() {
 	}
+
+	private void mainBranchChange3(){}
 }
