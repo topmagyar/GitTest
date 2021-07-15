@@ -3,6 +3,8 @@ package dev;
 public class A {
 
 	public static void main(String[] args) {
-		
+	}
+
+	private void mainBranchChange1() {
 	}
 }
