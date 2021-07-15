@@ -17,4 +17,7 @@ public class A {
 	}
 
 	private void feature1BranchChange3(){}
+
+	private void feature2BranchChange4() {
+	}
 }
